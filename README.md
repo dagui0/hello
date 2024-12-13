@@ -10,7 +10,7 @@ Tested on following platforms:
 * macOS (Sequoia 15.1.1, clang 16.0.0)
 * FreeBSD (14.1, clang 18.1.5)
 * Solaris (11.4.42 CBE, Developer Studio 12.6)
-* Windows (11 23H2, MinGW 13.2, gcc 13.2.0)
+* Windows (11 23H2, MinGW 13.2.0)
 
 ## Build
 
