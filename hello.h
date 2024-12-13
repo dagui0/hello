@@ -1,7 +1,7 @@
-#include <stdio.h>
-
 #ifndef __HELLO_H
 #define __HELLO_H
+
+#include <stdio.h>
 
 #ifdef WIN32
 #define HELLO_NEWLINE "\r\n"

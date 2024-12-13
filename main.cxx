@@ -1,8 +1,8 @@
 #include <iostream>
 using namespace std;
 extern "C" {
-  #include <stdlib.h>
   #include "hello.h"
+  #include <stdlib.h>
 }
 
 int main(int argc, char** argv) {
