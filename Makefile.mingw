@@ -1,4 +1,5 @@
 CC		= gcc
+SHELL	= C:\WINDOWS\system32\cmd.exe
 CFLAGS		= -m64 -O3
 CXXFLAGS	= -m64 -O3
 LDFLAGS		= -m64
