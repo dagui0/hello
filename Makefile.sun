@@ -6,6 +6,7 @@ HELLO_DEPS	= main.o hello.o
 HELLO_OUT	= hello
 
 .PHONEY: clean
+.SUFFIXES: .o .c .cxx
 
 .cxx.o:
 	$(CCC) $(CCFLAGS) -o $@ -c $<
