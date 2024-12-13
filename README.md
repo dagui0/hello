@@ -6,11 +6,11 @@ Hello world example source to test C/C++ development environment.
 
 Tested on following platforms:
 
-* Linux
-* macOS
-* FreeBSD
-* Solaris (11.4.42 CBE)
-* Windows (MinGW)
+* Linux (RHEL 9.5, gcc 11.5)
+* macOS (Sequoia 15.1.1, clang 16)
+* FreeBSD (14.1, clang 18)
+* Solaris (11.4.42 CBE, Developer Studio 12.6)
+* Windows (MinGW 13.2, gcc 13.2)
 
 ## Build
 
